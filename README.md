@@ -39,7 +39,7 @@ Port: 48942
 
 Referer:
 
-https://vikuniexam.in/UG_NEP_RE
+https://ssvmiexam.in/UG_NEP_RE
 
 SULT.aspx
 
